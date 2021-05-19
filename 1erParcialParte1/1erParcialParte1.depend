@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1621435439 source:d:\facultad\laboratorio 1\1erparcialparte1\serviciop.c
+	<stdlib.h>
+	<string.h>
+	"serviciop.h"
+
+1621426023 source:d:\facultad\laboratorio 1\1erparcialparte1\trabajop.c
+
+1621431023 source:d:\facultad\laboratorio 1\1erparcialparte1\fechap.c
+	"fechap.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621427266 d:\facultad\laboratorio 1\1erparcialparte1\fechap.h
+
+1621431040 source:d:\facultad\laboratorio 1\1erparcialparte1\datawarehousep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehousep.h"
+	"fechap.h"
+
+1621431023 d:\facultad\laboratorio 1\1erparcialparte1\datawarehousep.h
+
+1621435439 source:d:\facultad\laboratorio 1\1erparcialparte1\marcap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marcap.h"
+
+1621435897 d:\facultad\laboratorio 1\1erparcialparte1\marcap.h
+
+1621435439 source:d:\facultad\laboratorio 1\1erparcialparte1\tipop.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipop.h"
+
+1621433330 d:\facultad\laboratorio 1\1erparcialparte1\tipop.h
+
+1621434822 source:d:\facultad\laboratorio 1\1erparcialparte1\notebookp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebookp.h"
+	"datawarehousep.h"
+
+1621435897 d:\facultad\laboratorio 1\1erparcialparte1\notebookp.h
+	"marcap.h"
+	"tipop.h"
+
+1621435439 source:d:\facultad\laboratorio 1\1erparcialparte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datawarehousep.h"
+	"marcap.h"
+	"tipop.h"
+	"serviciop.h"
+	"trabajop.h"
+	"notebookp.h"
+
+1621431258 d:\facultad\laboratorio 1\1erparcialparte1\serviciop.h
+
+1621431293 d:\facultad\laboratorio 1\1erparcialparte1\trabajop.h
+	"fechap.h"
+
